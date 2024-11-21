@@ -5,7 +5,8 @@ description = "Yipii"
 
 ## Hey!
 
-I'm a 20 year old enby who really likes music and various different video games. Currently working on a new album, kinda.
+I'm a 20 year old enby who really likes music and various different video games. And also other things!
+Currently working on getting back into the groove of being creative, hopefully new music soon.
 
 ---
 
@@ -22,8 +23,7 @@ I'm a 20 year old enby who really likes music and various different video games.
 - ### <a href="https://coolmathgam.es/@Mem" title="@Mem@coolmathgam.es" target="_blank">Fediverse</a>
 
 - ### <p style="color: #00ffc8;" title=Mem0451>Discord: Mem0451</p>
-
-<small>I promise I'll make this look better Eventually<sup>(tm)</sup> the fact that I have to just write out my username hurts me too</small>
+<small>I promise I'll make this look better Eventually<sup>TM</sup> the fact that I have to just write out my username hurts me too its ok</small>
 
 ---
 
