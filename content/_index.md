@@ -39,7 +39,6 @@ I'm a 20 year old enby who really likes music and various different video games.
 <a href="https://www.ableton.com" target="_blank"> {{button(img = "/buttons/ableton.gif" alt="Ableton Live")}} </a>
 <a href="https://store.steampowered.com/app/2310/Quake/" target="_blank"> {{button(img = "/buttons/quake-now.png" alt="Quake... NOW!")}} </a>
 <a href="http://thesecretwordisnotreal.com" target="_blank"> {{button(img = "/buttons/tsw.gif" alt="The secret word is NOT real")}}</a>
-    
 {{button(img = "/buttons/crushit.gif" alt="Crush capitalism :3")}}
 {{button(img = "/buttons/drmario.gif" alt="You are gay.")}}
 {{button(img = "/buttons/ceracoin.png" alt="BUY CERACOIN.")}}
