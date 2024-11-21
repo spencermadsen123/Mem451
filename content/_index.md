@@ -13,7 +13,7 @@ I'm a 20 year old enby who really likes music and various different video games.
 
 - ### <a href="https://twitter.com/Thatonesaxguy" title="@thatonesaxguy" target="_blank">Twitter</a>
 
-- ### <a href="https://twitter.com/slimegirlsdaily" title="@slimegirlsdaily" target="_blank">slimegirlsdaily</a>
+- ### <a href="https://bsky.app/profile/mem0451.bsky.social" title="@mem0451.bsky.social" target="_blank">Bluesky</a>
 
 - ### <a href="https://www.twitch.tv/mem0451" title="Mem0451" target="_blank">Twitch</a>
 
@@ -38,6 +38,8 @@ I'm a 20 year old enby who really likes music and various different video games.
 <a href="https://3drealms.com" target="_blank"> {{button(img = "/buttons/3drlink.gif" alt="3D Realms")}} </a>
 <a href="https://www.ableton.com" target="_blank"> {{button(img = "/buttons/ableton.gif" alt="Ableton Live")}} </a>
 <a href="https://store.steampowered.com/app/2310/Quake/" target="_blank"> {{button(img = "/buttons/quake-now.png" alt="Quake... NOW!")}} </a>
+<a href="http://thesecretwordisnotreal.com" target="_blank"> {{button(img = "/buttons/tsw.gif" alt="The secret word is NOT real")}}</a>
+    
 {{button(img = "/buttons/crushit.gif" alt="Crush capitalism :3")}}
 {{button(img = "/buttons/drmario.gif" alt="You are gay.")}}
 {{button(img = "/buttons/ceracoin.png" alt="BUY CERACOIN.")}}
