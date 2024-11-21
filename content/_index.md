@@ -21,7 +21,9 @@ I'm a 20 year old enby who really likes music and various different video games.
 
 - ### <a href="https://coolmathgam.es/@Mem" title="@Mem@coolmathgam.es" target="_blank">Fediverse</a>
 
-- ### <p style="color: #00ffc8;" title=Mem0451>Discord</p>
+- ### <p style="color: #00ffc8;" title=Mem0451>Discord: Mem0451</p>
+
+<small>I promise I'll make this look better Eventually<sup>(tm)</sup> the fact that I have to just write out my username hurts me too</small>
 
 ---
 
@@ -46,4 +48,4 @@ I'm a 20 year old enby who really likes music and various different video games.
 
 <!-- Gotta eventually figure out how to put this at the bottom of the screen, or at least lower without fucking up where all the other text is -->
 
-<small><i>Currently very very WIP as I'm also relearning HTML and Markdown and CSS and also have a bad case of the ADHD, so this will probably be constantly changing</i></small>
+<small><i>Gonna rewrite this whole website soonish hopefully, so expect it to maybe (probably!) look different and also have some new stuff too :3</i></small>
