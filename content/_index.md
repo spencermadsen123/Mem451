@@ -23,7 +23,7 @@ Currently working on getting back into the groove of being creative, hopefully n
 - ### <a href="https://coolmathgam.es/@Mem" title="@Mem@coolmathgam.es" target="_blank">Fediverse</a>
 
 - ### <p style="color: #00ffc8;" title=Mem0451>Discord: Mem0451</p>
-<small>I promise I'll make this look better Eventually<sup>TM</sup> the fact that I have to just write out my username hurts me too its ok</small>
+<small>I promise I'll make this look better Eventually<sup><small>TM</sup></small> the fact that I have to just write out my username hurts me too its ok</small>
 
 ---
 
@@ -33,6 +33,8 @@ Currently working on getting back into the groove of being creative, hopefully n
 <br><br><br>
 
 <a href="https://n2.pm" target="_blank"> {{button(img = "/buttons/notnet.png" alt="NotNet")}} </a>
+<a href="https://hl2.sh" target="_blank"> {{button(img = "/buttons/jay.png" alt="Jay")}} </a>
+<a href="https://notnite.com" target="_blank"> {{button(img = "/buttons/notnite.png" alt="Notnite")}} </a>
 {{button(img = "/buttons/drpepper.gif" alt="Powered by Dr. Pepper")}}
 {{button(img = "/buttons/viewedwitheyes.gif" alt="Best viewed with eyes")}}
 <a href="https://vivaldi.com" target="_blank"> {{button(img = "/buttons/vivaldi.gif" alt="I use Vivaldi!")}} </a>
@@ -40,10 +42,12 @@ Currently working on getting back into the groove of being creative, hopefully n
 <a href="https://3drealms.com" target="_blank"> {{button(img = "/buttons/3drlink.gif" alt="3D Realms")}} </a>
 <a href="https://www.ableton.com" target="_blank"> {{button(img = "/buttons/ableton.gif" alt="Ableton Live")}} </a>
 <a href="https://store.steampowered.com/app/2310/Quake/" target="_blank"> {{button(img = "/buttons/quake-now.png" alt="Quake... NOW!")}} </a>
-<a href="http://thesecretwordisnotreal.com" target="_blank"> {{button(img = "/buttons/tsw.gif" alt="The secret word is NOT real")}}</a>
+<a href="http://thesecretwordisnotreal.com" target="_blank"> {{button(img = "/buttons/tsw.gif" alt="The secret word is NOT real")}} </a>
+<a href="https://votehusky.org" target="_blank"> {{button(img = "/buttons/votehusky.png" alt="Vote Husky for President!")}} </a>
+{{button(img = "/buttons/transnow.gif" alt="Trans rights now!")}}
 {{button(img = "/buttons/crushit.gif" alt="Crush capitalism :3")}}
 {{button(img = "/buttons/drmario.gif" alt="You are gay.")}}
-{{button(img = "/buttons/ceracoin.png" alt="BUY CERACOIN.")}}
+<a href="https://kinggizzardandthelizardwizard.com" target="_blank"> {{button(img = "/buttons/kglw.png" alt="King Gizzard and the Lizard Wizard")}}
 <br><br><br><br><br><br><br>
 
 <!-- Gotta eventually figure out how to put this at the bottom of the screen, or at least lower without fucking up where all the other text is -->
