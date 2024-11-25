@@ -14,7 +14,7 @@ Currently working on getting back into the groove of being creative, hopefully n
 
 - ### <a href="https://twitter.com/Thatonesaxguy" title="@thatonesaxguy" target="_blank">Twitter</a>
 
-- ### <a href="https://bsky.app/profile/mem0451.bsky.social" title="@mem0451.bsky.social" target="_blank">Bluesky</a>
+- ### <a href="https://bsky.app/profile/mem451.com" title="@mem0451.com" target="_blank">Bluesky</a>
 
 - ### <a href="https://www.twitch.tv/mem0451" title="Mem0451" target="_blank">Twitch</a>
 
