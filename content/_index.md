@@ -5,7 +5,7 @@ description = "Yipii"
 
 ## Hey!
 
-I'm a 20 year old enby who really likes music and various different video games. And also other things!
+I'm a 21 year old enby who really likes music and various different video games. And also other things!
 Currently working on getting back into the groove of being creative, hopefully new music soon.
 
 ---
